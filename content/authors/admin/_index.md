@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Nyasha Mutubuki
-role: Postdoctoral Research Researcher
+role: Postdoctoral Researcher
 avatar_filename: ""
 bio: My research interests include public heath, health economics and physical
   therapy.
