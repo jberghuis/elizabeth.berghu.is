@@ -1,13 +1,12 @@
 ---
 title: Elizabeth Nyasha Mutubuki
 role: Postdoctoral Research Researcher
-avatar_filename: elizabeth-berghuis-mutubuki-20201002-phd-portrait-cindy-van-rees-compressed-dsc_2428.jpg
+avatar_filename: ""
 bio: My research interests include public heath, health economics and physical
   therapy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Public Health
+  - Health Economics and Physical Therapy
 social:
   - icon: envelope
     icon_pack: fas
