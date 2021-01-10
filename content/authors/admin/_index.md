@@ -1,77 +1,47 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Elizabeth Nyasha Mutubuki
+role: Postdoctoral Research Researcher
+avatar_filename: elizabeth-berghuis-mutubuki-20201002-phd-portrait-cindy-van-rees-compressed-dsc_2428.jpg
+bio: My research interests include public heath, health economics and physical
+  therapy.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ENBerghuis
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/elizabeth-berghuis-mutubuki
+organizations:
+  - name: Amsterdam Universitair Medische Centra (VUmc)
+    url: https://www.vumc.nl/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Health Sciences
+      institution: VU University Amsterdam
+      year: 2021
+    - course: MSc in Public Health Economics and Health Promotion
+      institution: Karolinska Institutet
+      year: 2010
+    - course: BSc in Physiotherapy
+      institution: Amsterdam University of Applied Sciences
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+*Soon to be* Dr. Mutubuki holds a post-doctoral researcher  position at the Department of Epidemiology and Data Science of the Amsterdam Universitair Medische Centra. She holds a Bachelor’s degree in Physiotherapy from the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam). In 2010 she received a Master’s degree in Public Health with a specialization in Health Economics and Health Promotion from Karolinska Institutet Medical University in Stockholm, Sweden. Her thesis entitled Health care seeking behavior of caregivers for  children with disabilities in Zimbabwe was awarded a pass with distinction (väl godkänd).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Following her Master’s degree, she worked in diverse physiotherapy practices in the Netherlands and started her own her own physiotherapy practice, Fysio Praktijk Berghuis/Fysiobezorgd. In 2013 she started Hutano, a Public health consultancy. During her time at Hutano Elizabeth performed together with Koninklijk Instituut voor de Tropen (KIT), a desk literature review of institutional arrangements for health financing in selected African countries. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In November 2016, Elizabeth started her PhD position at the Faculty of Health Sciences and department of Health Technology assessment at the Vrije Universiteit Amsterdam. There she worked on the PLUS-study (Preventing Lumbar Disc hernia trial) and conducted a randomized controlled trial in the Netherlands. 
+
+Her current position focuses on the methodology of guideline development. In addition she is a board member of the Friendship Bench, an initiative providing sustainable community based psychological interventions that are evidence based and accessible in Zimbabwe. She is also one of the co-founders of ZimNetwork, a platform promoting professional interaction of Zimbabweans in the Benelux.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
