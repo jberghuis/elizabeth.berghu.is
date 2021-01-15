@@ -6,7 +6,8 @@ bio: My research interests include public heath, health economics and physical
   therapy.
 interests:
   - Public Health
-  - Health Economics and Physical Therapy
+  - Health Economics
+  - Physical Therapy
 social:
   - icon: envelope
     icon_pack: fas
