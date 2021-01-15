@@ -6,8 +6,8 @@ widget: blank
 widget_id: invitation
 headless: true
 weight: 15
-title: INVITATION
-subtitle: ""
+title: Invitation
+subtitle: to attend the public defence of my PhD thesis
 active: true
 design:
   columns: "1"
@@ -24,9 +24,7 @@ design:
       - 20px
       - "0"
 ---
-<p style="text-align: center;">
-
-to attend the public defence of my PhD thesis
+<div align="center">
 
 ## **Low Back Pain:**
 ### **Treatment, Health Effects and Costs**
@@ -38,4 +36,4 @@ Online on: []()
 Afterwards you are cordially invited to the online reception:
 
 Elizabeth Nyasha Mutubuki
-</p>
+</div>
