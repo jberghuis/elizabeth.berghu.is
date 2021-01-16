@@ -39,9 +39,8 @@ at 13:45
 <br>  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x5r21NE6728" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>More information about the [thesis](https://research.vu.nl/en/publications/low-back-pain-treatment-health-effects-and-costs).
-
-<iframe allowfullscreen="" frameborder="0" height="800" id="bookshare-iframe" onload="this.focus()" scrolling="no" src="https://www.blurb.com/bookshare/app/index.html?bookId=10480016" width="900"></iframe>
+<br>More information about the theses on the [VU Research Portal](https://research.vu.nl/en/publications/low-back-pain-treatment-health-effects-and-costs)
+<br>or view the thesis an [online app](https://www.blurb.com/bookshare/app/index.html?bookId=10480016).
 
 Afterwards you are cordially invited to the online reception at ... on [Zoom (TBA)](<>).
 
