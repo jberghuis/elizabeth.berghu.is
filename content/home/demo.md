@@ -35,8 +35,6 @@ On Friday 29 January 2021
 at 13:45  
 
 <br>Livestream: [VU Beadle's Office - YouTube](https://www.youtube.com/channel/UCnN8TaVYe83472ewz9CH9HA)
-
-<br>  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x5r21NE6728" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>More information about the theses on the [VU Research Portal](https://research.vu.nl/en/publications/low-back-pain-treatment-health-effects-and-costs)
