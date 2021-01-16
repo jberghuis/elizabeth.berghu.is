@@ -41,6 +41,8 @@ at 13:45
 
 <br>More information about the [thesis](https://research.vu.nl/en/publications/low-back-pain-treatment-health-effects-and-costs).
 
+<iframe allowfullscreen="" frameborder="0" height="800" id="bookshare-iframe" onload="this.focus()" scrolling="no" src="https://www.blurb.com/bookshare/app/index.html?bookId=10480016" width="900"></iframe>
+
 Afterwards you are cordially invited to the online reception at ... on [Zoom (TBA)](<>).
 
 <br>Elizabeth Nyasha Mutubuki
