@@ -13,11 +13,10 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: "Image credit:
-    [**Unsplash**](https://elizabeth.berghu.is/authors/admin/avatar.jpg)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: https://elizabeth.berghu.is/authors/admin/avatar.jpg
+  filename: null
 ---
 Hello there! Thank you for visiting my new personal website. This where I will write my blog posts.
