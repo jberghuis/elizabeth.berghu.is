@@ -10,7 +10,6 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "7"
-  - "5"
 authors:
   - admin
 author_notes: []
