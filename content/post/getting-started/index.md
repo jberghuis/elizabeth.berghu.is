@@ -17,6 +17,6 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: null
+  filename: featured.jpg
 ---
 Hello there! Thank you for visiting my new personal website. This where I will write my blog posts.
