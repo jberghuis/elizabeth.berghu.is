@@ -27,20 +27,21 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Low Back Pain:"
-subtitle: Treatment, Health Effects, and Costs
+title: "Low Back Pain: Treatment, Health Effects, and Costs"
+subtitle: ""
 doi: ""
 featured: true
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: "Low Back Pain: Treatment, Health Effects, and Costs"
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2013-07-01T00:00:00Z
+  alt_text: "Low Back Pain: Treatment, Health Effects, and Costs"
+date: 2021-01-17T17:18:23.550Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
