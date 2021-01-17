@@ -40,8 +40,8 @@ at 13:45
 <br>More information about the theses on the [VU Research Portal](https://research.vu.nl/en/publications/low-back-pain-treatment-health-effects-and-costs)
 <br>or view the thesis in an [online app](https://www.blurb.com/bookshare/app/index.html?bookId=10480016).
 
-Afterwards you are cordially invited to the online reception at ... on [Zoom (TBA)](<>).
+Afterwards you are cordially invited to the online reception at 15:30 on [Zoom (TBA)](<>).
 
-<br>Elizabeth Nyasha Mutubuki
+<br>*Elizabeth Nyasha Mutubuki*
 
 </div>
