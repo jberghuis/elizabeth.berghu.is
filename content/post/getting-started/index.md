@@ -2,8 +2,7 @@
 title: Welcome to my personal website!
 subtitle: ""
 date: 2016-04-20T00:00:00Z
-summary: Hello there! Thank you for visiting my new personal website. This where
-  I will write my blog posts.
+summary: Hello there! Thank you for visiting my new personal website.
 draft: false
 featured: false
 authors:
