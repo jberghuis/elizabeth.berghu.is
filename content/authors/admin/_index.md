@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/ENBerghuis
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/elizabeth-berghuis-mutubuki
+    link: https://linkedin.com/in/elizabeth-berghuis-mutubuki
 organizations:
   - name: Amsterdam Universitair Medische Centra (VUmc)
     url: https://www.vumc.nl/
